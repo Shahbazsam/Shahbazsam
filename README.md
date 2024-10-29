@@ -30,9 +30,9 @@
 
 
 # 📂 Projects:
+- **Scare Me**: A Tinder-like app for finding connections based on shared interests, featuring sign-in, chat functionality, and topic-based recommendations.
 - **ToDo App**: A task management application built with Jetpack Compose and Room.
 - **Visual Novel**: An interactive storytelling app showcasing narrative techniques and UI design.
-- **Scare Me**: A Tinder-like app for finding connections based on shared interests, featuring sign-in, chat functionality, and topic-based recommendations.
 
 # 📚 Learning Goals:
 - Deepening knowledge of Kotlin Multiplatform (KMP).
