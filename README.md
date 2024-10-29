@@ -7,8 +7,6 @@
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Retrofit](https://img.shields.io/badge/Retrofit-%23F26925.svg?style=for-the-badge&logo=retrofit&logoColor=white)
@@ -22,6 +20,8 @@
 ![Coroutines](https://img.shields.io/badge/Coroutines-%233DDC84.svg?style=for-the-badge&logo=kotlin&logoColor=black)
 ![Flows](https://img.shields.io/badge/Flows-%23FF4081.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![ViewModel](https://img.shields.io/badge/ViewModel-%2300BFFF.svg?style=for-the-badge&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 # 📊 GitHub Stats:
 
